@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceeync",
+        "uuid": 23743570,
+        "checksum": "1c8jf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
